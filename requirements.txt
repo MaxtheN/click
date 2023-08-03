@@ -1,0 +1,4 @@
+Django~=4.2.4
+setuptools~=65.5.1
+requests~=2.31.0
+django-payments~=2.0.0
